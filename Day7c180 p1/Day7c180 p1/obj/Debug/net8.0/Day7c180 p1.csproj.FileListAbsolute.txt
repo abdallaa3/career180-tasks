@@ -1,0 +1,14 @@
+C:\Users\star bussiness\Desktop\net\Day7c180 p1\Day7c180 p1\bin\Debug\net8.0\Day7c180 p1.exe
+C:\Users\star bussiness\Desktop\net\Day7c180 p1\Day7c180 p1\bin\Debug\net8.0\Day7c180 p1.deps.json
+C:\Users\star bussiness\Desktop\net\Day7c180 p1\Day7c180 p1\bin\Debug\net8.0\Day7c180 p1.runtimeconfig.json
+C:\Users\star bussiness\Desktop\net\Day7c180 p1\Day7c180 p1\bin\Debug\net8.0\Day7c180 p1.dll
+C:\Users\star bussiness\Desktop\net\Day7c180 p1\Day7c180 p1\bin\Debug\net8.0\Day7c180 p1.pdb
+C:\Users\star bussiness\Desktop\net\Day7c180 p1\Day7c180 p1\obj\Debug\net8.0\Day7c180 p1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\star bussiness\Desktop\net\Day7c180 p1\Day7c180 p1\obj\Debug\net8.0\Day7c180 p1.AssemblyInfoInputs.cache
+C:\Users\star bussiness\Desktop\net\Day7c180 p1\Day7c180 p1\obj\Debug\net8.0\Day7c180 p1.AssemblyInfo.cs
+C:\Users\star bussiness\Desktop\net\Day7c180 p1\Day7c180 p1\obj\Debug\net8.0\Day7c180 p1.csproj.CoreCompileInputs.cache
+C:\Users\star bussiness\Desktop\net\Day7c180 p1\Day7c180 p1\obj\Debug\net8.0\Day7c180 p1.dll
+C:\Users\star bussiness\Desktop\net\Day7c180 p1\Day7c180 p1\obj\Debug\net8.0\refint\Day7c180 p1.dll
+C:\Users\star bussiness\Desktop\net\Day7c180 p1\Day7c180 p1\obj\Debug\net8.0\Day7c180 p1.pdb
+C:\Users\star bussiness\Desktop\net\Day7c180 p1\Day7c180 p1\obj\Debug\net8.0\Day7c180 p1.genruntimeconfig.cache
+C:\Users\star bussiness\Desktop\net\Day7c180 p1\Day7c180 p1\obj\Debug\net8.0\ref\Day7c180 p1.dll
