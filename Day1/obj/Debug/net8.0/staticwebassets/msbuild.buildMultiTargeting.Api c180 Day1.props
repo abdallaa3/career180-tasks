@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Api c180 Day1.props" />
+</Project>

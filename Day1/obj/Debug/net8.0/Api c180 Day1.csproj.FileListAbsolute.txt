@@ -1,0 +1,32 @@
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\bin\Debug\net8.0\appsettings.json
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\bin\Debug\net8.0\Api c180 Day1.exe
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\bin\Debug\net8.0\Api c180 Day1.deps.json
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\bin\Debug\net8.0\Api c180 Day1.runtimeconfig.json
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\bin\Debug\net8.0\Api c180 Day1.dll
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\bin\Debug\net8.0\Api c180 Day1.pdb
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\Api c180 Day1.csproj.AssemblyReference.cache
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\Api c180 Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\Api c180 Day1.AssemblyInfoInputs.cache
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\Api c180 Day1.AssemblyInfo.cs
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\Api c180 Day1.csproj.CoreCompileInputs.cache
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\Api c180 Day1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\Api c180 Day1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\staticwebassets\msbuild.Api c180 Day1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\staticwebassets\msbuild.build.Api c180 Day1.props
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api c180 Day1.props
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api c180 Day1.props
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\scopedcss\bundle\Api c180 Day1.styles.css
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\Api c180.C6C2FA1E.Up2Date
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\Api c180 Day1.dll
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\refint\Api c180 Day1.dll
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\Api c180 Day1.pdb
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\Api c180 Day1.genruntimeconfig.cache
+C:\Users\star bussiness\Desktop\net\career\Day1\Day1\obj\Debug\net8.0\ref\Api c180 Day1.dll

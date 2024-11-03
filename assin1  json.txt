@@ -1,0 +1,24 @@
+ public class course
+ {
+     public int Id { get; set; }
+     public string Name { get; set; }
+     public int Duration { get; set; }
+     public bool Status { get; set; }
+ }
+
+public List<course> courses = new List<course>
+{
+new course { Id = 1, Name = "c++", Duration = 10, Status = true },
+new course { Id = 2, Name = "C#", Duration = 8, Status = true },
+new course { Id = 3, Name = "Sql", Duration = 12, Status = false }
+};
+
+json :
+  [
+    {"id": 1,"name": "c++", "duration": 10,"status": true },
+	
+    {"id": 2, "name": "C#","duration": 8,"status": true},
+	
+    {"id": 3,"name": "Sql","duration": 12,"status":false }
+	
+  ]
